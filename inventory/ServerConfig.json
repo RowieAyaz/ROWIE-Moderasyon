@@ -1,0 +1,65 @@
+{
+
+"ServerAuthorizedPerms": {
+"RegisterID": "ROLID",
+"BanSpearID": "ROLID",
+"JailSpearID": "ROLID",
+"MuteSpearID": "ROLID",
+"VoiceMuteSpearID": "ROLID",
+"AbilityID": "ROLID"
+},
+
+"Channels": {
+"BanLogChannelID": "KANALID",
+"JailLogChannelID": "KANALID",
+"MuteLogChannelID": "KANALID",
+"VoiceMuteLogChannelID": "KANALID"
+},
+
+"Penalties": {
+"JailRole": "ROLID",
+"MuteRole": "ROLID",
+"booster": "ROLID"
+},
+
+"ServerSettings": {
+"GuildID": "SUNUCUID",
+"GuildName": "SUNUCUISMI",
+"ServerTag": "SUNUCUTAG"
+},
+
+"Colors": {
+"Mavi": "#49d2df",
+"Mor": "#af23e7",
+"Pembe": "#e723de",
+"Sarı": "#d8ca4c",
+"Altın": "#f7a831",
+"Magenta": "#da42ae",
+"Kırmızı": "#c72828",
+"Yesil": "#43dd64",
+"NoEmbed": "#2f3136",
+"Special": "cf8c44"
+},
+
+"Emoji": {
+"True": "EMOJI",
+"False": "EMOJI",
+"TrueID": "EmojiID",
+"FalseID": "EmojiID"
+},
+
+"EmojiSayı": {
+"sifir": "EMOJI",
+"bir": "EMOJI",
+"iki": "EMOJI",
+"uc": "EMOJI",
+"dort": "EMOJI",
+"bes": "EMOJI",
+"alti": "EMOJI",
+"yedi": "EMOJI",
+"sekiz": "EMOJI",
+"dokuz": "EMOJI"
+}
+
+
+}
